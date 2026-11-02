@@ -1,0 +1,9 @@
+Customer_ID,Total_Sales,Total_Orders,Total_Quantity,Customer_Segment
+C001,81000,3,3,Medium Value
+C002,103000,3,6,High Value
+C003,18000,3,23,Low Value
+C004,97000,3,5,Medium Value
+C005,118000,3,5,High Value
+C006,13000,3,28,Low Value
+C007,39500,3,9,Low Value
+C008,133000,3,5,High Value
